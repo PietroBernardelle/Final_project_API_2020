@@ -1,4 +1,4 @@
-# Final project for: Algorithm and Principles of Computer Science Course.
+# Final project: Algorithm and Principles of Computer Science Course.
 
 ## Requirements
 
