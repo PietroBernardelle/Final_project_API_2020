@@ -1,4 +1,4 @@
-# Final_project_API_2020
+# Final project for the Algorithm and Principles of Computer Science Course.
 
 ## Requirements
 
