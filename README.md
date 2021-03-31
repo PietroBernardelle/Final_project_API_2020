@@ -1,5 +1,5 @@
 # Final project: Algorithm and Principles of Computer Science Course.
-One of the three final projects: Algorithm and Principles of Computer Science, Digital Logic Design and Software Engineering; that concur to the final bachelor mark in "Engineering of Computing Systems" at **Politecnico di Milano**.
+One of the three final projects (Algorithm and Principles of Computer Science, Digital Logic Design and Software Engineering) that concur to the final bachelor mark in "Engineering of Computing Systems" at **Politecnico di Milano**.
 
 **Teacher** : Alessandro Barenghi 
 
@@ -7,11 +7,11 @@ One of the three final projects: Algorithm and Principles of Computer Science, D
 
 ## Requirements
 
-Il progetto consiste nell’implementare un semplice editor di testi. L’editor considera un documento come una sequenza di righe, di dimensione arbitraria, numerate a partire da uno.
+Il progetto consiste nell’implementare un semplice editor di testo. L’editor considera un documento (di dimensione arbitraria) come una sequenza di righe, di dimensione massima 1026 caratteri, numerate a partire da uno.
 
-L’interfaccia dell’editor è costituita da comandi testuali, terminati da un carattere di “a capo”. I comandi possono essere seguiti da una porzione di testo, costituita da una o più righe, terminata da un carattere . (punto) che compare come unico carattere sulla riga successiva. I comandi sono costituiti da un’unica lettera, preceduta opzionalmente da uno o due numeri interi. L’interfaccia dell’editor è liberamente ispirata a quella del tradizionale editor ed.
-In alcuni comandi, gli interi che compaiono in essi rappresentano degli speci- ficatori di indirizzo. Più precisamente, uno specificatore di indirizzo è un numero n, espresso in decimale, che indica l’indirizzo della n-esima riga; la prima riga del testo ha indirizzo 1.
-I comandi supportati sono i seguenti, con la convenzione che ind1,ind2 indicano due specificatori di indirizzo tali che ind1  ind2 e le parentesi tonde sono introdotte per semplicità di lettura di questo testo, ma non incluse nel comando:
+L’interfaccia dell’editor è costituita da comandi testuali, terminati da un carattere di “a capo”. I comandi possono essere seguiti da una porzione di testo, costituita da una o più righe, terminata da un carattere "." che compare come unico carattere sulla riga successiva. I comandi sono costituiti da un’unica lettera, preceduta opzionalmente da uno o due numeri interi. L’interfaccia dell’editor è liberamente ispirata a quella del tradizionale editor ed.
+In alcuni comandi, gli interi che compaiono in essi rappresentano degli specificatori di indirizzo. Più precisamente, uno specificatore di indirizzo è un numero n, espresso in decimale, che indica l’indirizzo della n-esima riga; la prima riga del testo ha indirizzo 1.
+I comandi supportati sono i seguenti, con la convenzione che ind1,ind2 indicano due specificatori di indirizzo tali che ind1, ",", ind2 e le parentesi tonde sono introdotte per semplicità di lettura di questo testo, ma non incluse nel comando:
 
 • (ind1,ind2)c
 
@@ -44,11 +44,11 @@ I comandi supportati sono i seguenti, con la convenzione che ind1,ind2 indicano 
  
 • (numero)r
 
-Annulla l’effetto di undo per un numero di comandi pari a numero a partire
-dalla versione corrente (funzione di redo). Si noti che numero deve essere
-un intero strettamente maggiore di zero. 
-Una riga di testo fornita in ingresso all’editor può contenere al massimo 1024
-caratteri.
+    Annulla l’effetto di undo per un numero di comandi pari a numero a partire
+    dalla versione corrente (funzione di redo). Si noti che numero deve essere
+    un intero strettamente maggiore di zero. 
+    Una riga di testo fornita in ingresso all’editor può contenere al massimo 1024
+    caratteri.
 
  
 
