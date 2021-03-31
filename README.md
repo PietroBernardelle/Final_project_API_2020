@@ -1,8 +1,9 @@
 # Final project: Algorithm and Principles of Computer Science Course.
+One of the three final projects, with the one of Digital Logic Design and the Software Engineering one, that concur to the final graduation mark.
 
-**Teacher**: Alessandro Barenghi 
+**Teacher** : Alessandro Barenghi 
 
-**Final Score**: 30/30 cum laude
+**Final Score** : 30/30 cum laude
 
 ## Requirements
 
