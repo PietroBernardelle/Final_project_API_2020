@@ -59,8 +59,8 @@ I comandi supportati sono i seguenti, con la convenzione che ind1,ind2 indicano 
 | WriteOnly       | c          | 7.4 s      | 3.00 GiB     |[![GREEN](https://placehold.it/15/44bb44/44bb44)](#)        |
 | BulkReads       | c          | 1.250 s    | 240 MiB      |[![GREEN](https://placehold.it/15/44bb44/44bb44)](#)        |
 | TimeForAChange  | c, d       | 2.100 s    | 540 MiB      |[![GREEN](https://placehold.it/15/44bb44/44bb44)](#)        |
-| AlteringHistory | c, d, u    | 2.100 s    | 400 MiB      |[![GREEN](https://placehold.it/15/44bb44/44bb44)](#)        |
-| RollingBack     | c, d, u, r | 2.400 s    | 550 MiB      |[![GREEN](https://placehold.it/15/44bb44/44bb44)](#)        |
+| RollingBack     | c, d, u    | 2.100 s    | 400 MiB      |[![GREEN](https://placehold.it/15/44bb44/44bb44)](#)        |
+| AlteringHistory | c, d, u, r | 2.400 s    | 550 MiB      |[![GREEN](https://placehold.it/15/44bb44/44bb44)](#)        |
 | RollerCoaster   | c, d, u, r | 2.700 s    | 1.03 GiB     |[![GREEN](https://placehold.it/15/44bb44/44bb44)](#)        |
 | Laude           | c, d, u, r | 2.000 s    | 340 MiB      |[![GREEN](https://placehold.it/15/44bb44/44bb44)](#)        |
 
