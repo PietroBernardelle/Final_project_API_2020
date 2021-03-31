@@ -1,5 +1,5 @@
 # Final project: Algorithm and Principles of Computer Science Course.
-One of the three final projects, with the one of Digital Logic Design and the Software Engineering one, that concur to the final bachelor mark in ""Engineering of Computing Systems" held by **Politecnico di Milano**.
+One of the three final projects, with the one of Digital Logic Design and the Software Engineering one, that concur to the final bachelor mark in "Engineering of Computing Systems" held by **Politecnico di Milano**.
 
 **Teacher** : Alessandro Barenghi 
 
