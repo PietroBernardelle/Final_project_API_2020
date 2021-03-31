@@ -62,6 +62,6 @@ caratteri.
 
 
 ## Tools Used:
-- shell
+- shell 
+- gcc
 - sublime text
-- debugging: printf
