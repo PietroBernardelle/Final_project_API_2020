@@ -49,7 +49,7 @@ caratteri.
 
 ## Test cases
 
-| Task            | Commands   | Time Limit | Memory limit | Passed |
+| Task            | Commands   | Time Limit | Memory limit | Status |
 | --------------- | ---------- | :--------: | :----------: | :--------------------------------------------------------: |
 | WriteOnly       | c          | 7.4 s      | 3.00 GiB     |[![GREEN](https://placehold.it/15/44bb44/44bb44)](#)        |
 | BulkReads       | c          | 1.250 s    | 240 MiB      |[![GREEN](https://placehold.it/15/44bb44/44bb44)](#)        |
@@ -59,7 +59,8 @@ caratteri.
 | RollerCoaster   | c, d, u, r | 2.700 s    | 1.03 GiB     |[![GREEN](https://placehold.it/15/44bb44/44bb44)](#)        |
 | Laude           | c, d, u, r | 2.000 s    | 340 MiB      |[![GREEN](https://placehold.it/15/44bb44/44bb44)](#)        |
 
-
+#### Legend
+[![RED](https://placehold.it/15/f03c15/f03c15)]() Task not implementes or implemented and not working;&nbsp;&nbsp;&nbsp;[![GREEN](https://placehold.it/15/44bb44/44bb44)]() Task correctly implemented
 
 ## Tools Used:
 - shell 
