@@ -1,5 +1,9 @@
 # Final project: Algorithm and Principles of Computer Science Course.
 
+**Teacher**: Alessandro Barenghi 
+
+**Final Score**: 30/30 cum laude
+
 ## Requirements
 
 Il progetto consiste nell’implementare un semplice editor di testi. L’editor considera un documento come una sequenza di righe, di dimensione arbitraria, numerate a partire da uno.
