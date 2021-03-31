@@ -50,7 +50,7 @@ caratteri.
 ## Test cases
 
 | Task            | Commands   | Time Limit | Memory limit | Passed |
-| --------------- | ---------- | ---------- | ------------ |[![GREEN](https://placehold.it/15/44bb44/44bb44)](#)        |
+| --------------- | ---------- | ---------- | ------------ | ---------------------------------------------------------- |
 | WriteOnly       | c          | 7.4 s      | 3.00 GiB     |[![GREEN](https://placehold.it/15/44bb44/44bb44)](#)        |
 | BulkReads       | c          | 1.250 s    | 240 MiB      |[![GREEN](https://placehold.it/15/44bb44/44bb44)](#)        |
 | TimeForAChange  | c, d       | 2.100 s    | 540 MiB      |[![GREEN](https://placehold.it/15/44bb44/44bb44)](#)        |
@@ -62,7 +62,6 @@ caratteri.
 
 
 ## Tools Used:
-- terminal
+- shell
 - sublime text
-- blocco note
-- Debugging: printf
+- debugging: printf
