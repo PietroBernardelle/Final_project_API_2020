@@ -60,7 +60,7 @@ caratteri.
 | Laude           | c, d, u, r | 2.000 s    | 340 MiB      |[![GREEN](https://placehold.it/15/44bb44/44bb44)](#)        |
 
 #### Legend
-[![RED](https://placehold.it/15/f03c15/f03c15)]() Task not implementes or implemented and not working;&nbsp;&nbsp;&nbsp;[![GREEN](https://placehold.it/15/44bb44/44bb44)]() Task correctly implemented
+[![RED](https://placehold.it/15/f03c15/f03c15)]() Task not implementes or implemented and not working &nbsp;&nbsp;&nbsp; [![GREEN](https://placehold.it/15/44bb44/44bb44)]() Task correctly implemented
 
 ## Tools Used:
 - shell 
