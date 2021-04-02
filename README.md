@@ -49,23 +49,23 @@ I comandi supportati sono i seguenti, con la convenzione che ind1,ind2 indicano 
     un intero strettamente maggiore di zero. 
     Una riga di testo fornita in ingresso all’editor può contenere al massimo 1024
     caratteri.
-
+    
  
 
 ## Test cases
 
 | Task            | Commands   | Time Limit | Memory limit | Status |
 | --------------- | ---------- | :--------: | :----------: | :--------------------------------------------------------: |
-| WriteOnly       | c          | 7.4 s      | 3.00 GiB     |[![GREEN](https://placehold.it/15/44bb44/44bb44)](#)        |
-| BulkReads       | c          | 1.250 s    | 240 MiB      |[![GREEN](https://placehold.it/15/44bb44/44bb44)](#)        |
-| TimeForAChange  | c, d       | 2.100 s    | 540 MiB      |[![GREEN](https://placehold.it/15/44bb44/44bb44)](#)        |
-| RollingBack     | c, d, u    | 2.100 s    | 400 MiB      |[![GREEN](https://placehold.it/15/44bb44/44bb44)](#)        |
-| AlteringHistory | c, d, u, r | 2.400 s    | 550 MiB      |[![GREEN](https://placehold.it/15/44bb44/44bb44)](#)        |
-| RollerCoaster   | c, d, u, r | 2.700 s    | 1.03 GiB     |[![GREEN](https://placehold.it/15/44bb44/44bb44)](#)        |
-| Laude           | c, d, u, r | 2.000 s    | 340 MiB      |[![GREEN](https://placehold.it/15/44bb44/44bb44)](#)        |
+| WriteOnly       | c          | 7.4 s      | 3.00 GiB     |[![GREEN](https://user-images.githubusercontent.com/62955439/113417211-390d2280-93c3-11eb-9838-b14afd96320c.png)](#)|    
+| BulkReads       | c          | 1.250 s    | 240 MiB      |[![GREEN](https://user-images.githubusercontent.com/62955439/113417211-390d2280-93c3-11eb-9838-b14afd96320c.png)](#)|        
+| TimeForAChange  | c, d       | 2.100 s    | 540 MiB      |[![GREEN](https://user-images.githubusercontent.com/62955439/113417211-390d2280-93c3-11eb-9838-b14afd96320c.png)](#)|
+| RollingBack     | c, d, u    | 2.100 s    | 400 MiB      |[![GREEN](https://user-images.githubusercontent.com/62955439/113417211-390d2280-93c3-11eb-9838-b14afd96320c.png)](#)|
+| AlteringHistory | c, d, u, r | 2.400 s    | 550 MiB      |[![GREEN](https://user-images.githubusercontent.com/62955439/113417211-390d2280-93c3-11eb-9838-b14afd96320c.png)](#)|
+| RollerCoaster   | c, d, u, r | 2.700 s    | 1.03 GiB     |[![GREEN](https://user-images.githubusercontent.com/62955439/113417211-390d2280-93c3-11eb-9838-b14afd96320c.png)](#)|
+| Laude           | c, d, u, r | 2.000 s    | 340 MiB      |[![GREEN](https://user-images.githubusercontent.com/62955439/113417211-390d2280-93c3-11eb-9838-b14afd96320c.png)](#)|
 
 #### Legend
-[![RED](https://placehold.it/15/f03c15/f03c15)]() Task not implemented &nbsp;&nbsp;&nbsp; [![GREEN](https://placehold.it/15/44bb44/44bb44)]() Task correctly implemented
+[![RED](https://user-images.githubusercontent.com/62955439/113417402-a02ad700-93c3-11eb-9164-6298d43d0125.png)]() Task not implemented &nbsp;&nbsp;&nbsp; [![GREEN](https://user-images.githubusercontent.com/62955439/113417211-390d2280-93c3-11eb-9838-b14afd96320c.png)]() Task correctly implemented
 
 ## Tools Used:
 - shell 
