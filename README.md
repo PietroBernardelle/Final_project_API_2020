@@ -65,7 +65,8 @@ I comandi supportati sono i seguenti, con la convenzione che ind1,ind2 indicano 
 | Laude           | c, d, u, r | 2.000 s    | 340 MiB      |[![GREEN](https://user-images.githubusercontent.com/62955439/113417211-390d2280-93c3-11eb-9838-b14afd96320c.png)](#)|
 
 #### Legend
-[![RED](https://user-images.githubusercontent.com/62955439/113417402-a02ad700-93c3-11eb-9164-6298d43d0125.png)]() Task not implemented &nbsp;&nbsp;&nbsp; [![GREEN](https://user-images.githubusercontent.com/62955439/113417211-390d2280-93c3-11eb-9838-b14afd96320c.png)]() Task correctly implemented
+[![RED](https://user-images.githubusercontent.com/62955439/113417402-a02ad700-93c3-11eb-9164-6298d43d0125.png)]() Task not implemented &nbsp;&nbsp;&nbsp; <br>
+[![GREEN](https://user-images.githubusercontent.com/62955439/113417211-390d2280-93c3-11eb-9838-b14afd96320c.png)]() Task correctly implemented
 
 ## Tools Used:
 - shell 
